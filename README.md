@@ -4,6 +4,11 @@ You know why this is needed if you had to use packet tracer on arch linux.
 
 This uses a headless selenium firefox driver to log in and fetch the file into `$HOME/.cache/paru/clone/packettracer/`
 
+## note
+
+This script sometimes crashes with "couldent scroll element into view" or some crap selenium made up.
+Simply run it again. I will fix it eventually. or not.
+
 
 ## requirements
 
