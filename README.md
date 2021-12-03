@@ -10,7 +10,7 @@ This uses a headless selenium firefox driver to log in and fetch the file into `
 gecko webdriver (it is in the repos) installed and probably firefox
 
 ```
-gem install selenium
+gem install selenium-webdriver
 gem install json
 ```
 
